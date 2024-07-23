@@ -1,20 +1,49 @@
 # Devmoraes
 ### Hello, my name is Juan Moraes🖐🏻😃
 
-[![blog](https://img.shields.io/website-up-down-green-red/http/github.com/dev-anonymous0/Devmoraes.svgsite:https://github.com/dev-anonymous0/Devmoraes)](https://github.com/dev-anonymous0/Devmoraes)
+<h1 align="left">Good morning, good afternoon and good night</h1>
 
-[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@anonymousdey?_t=8hCiYgAR3Sf&_r=1) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brolyz_?igshid=cnk4NjNncGlscm0x)
+###
 
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Devmoraes&show_icons=true&theme=onedark)
+<p align="left">My name is Juan moraes, I'm a fullstack jr developer, I live in Campinas SP</p>
 
-### Technologies I use
+###
 
-<div style="display: inline_block"><br/>
-    <p>*Front-End*<p/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <p>Back-End<p/>
-    <img align="center" alt="Pyhton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Constant involvement with front-end technologies, such as JavaScript, React with TypeScript integration. Proficiency in back-end programming, using Node.JS with TypeScript, APIs using REST API along with Insomnia. I have my own projects where I use these technologies, which I upload to my GitHub. Additionally, I have knowledge in relational databases using MongoDB and PostgreSQL.<br>I continue to dedicate myself to personal projects and the continuous study of new technologies while actively seeking an opportunity to start my career as a professional developer.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+###
 
